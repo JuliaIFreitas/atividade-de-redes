@@ -21,9 +21,9 @@ jobs:
           distribution: 'temurin'
 
       - name: Build com Maven
-        working-directory: ./atividade
+        working-directory: ./atividade_redes_workflow
         run: mvn clean install
 
       - name: Executar testes
-        working-directory: ./atividade
+        working-directory: ./atividade_redes_workflow
         run: mvn test
