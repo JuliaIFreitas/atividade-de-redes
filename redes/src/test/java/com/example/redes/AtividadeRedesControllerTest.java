@@ -1,4 +1,4 @@
-package com.example.atividade_redes_workflow;
+package com.example.redes;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

@@ -1,4 +1,4 @@
-package com.example.atividade_redes_workflow;
+package com.example.redes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.atividade_redes_workflow;
+package com.example.redes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
